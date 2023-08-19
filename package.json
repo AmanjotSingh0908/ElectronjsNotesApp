@@ -1,0 +1,19 @@
+{
+  "name": "electonjsnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  },
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "react-toastify": "^9.1.3"
+  }
+}
